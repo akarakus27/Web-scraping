@@ -2,4 +2,5 @@
 Python ile web  scraping örnekleri
 
 # Projeler
-Film Bilgileri
+Film Bilgileri Imbd Veriler
+
