@@ -1,4 +1,4 @@
-# Web-scraping
+# Web Scraping
 Python ile web  scraping örnekleri
 
 # Projeler
