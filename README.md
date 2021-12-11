@@ -6,5 +6,7 @@ Film Bilgileri Imbd Veriler
 
 
 # Requirements
- İnstall bs4 , BeautifulSoup
+ pip install  requirements.txt   
+ İnstall
+  bs4 , BeautifulSoup
 
